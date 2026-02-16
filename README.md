@@ -1,11 +1,44 @@
-# Practicum
-I'm a data analyst with in-depth knowledge of how banking products (debit and credit) work at the operating system level. I find common ground with technologists and developers to resolve technical issues and simplify employee work.
-Working at a bank (for over 12 years) helped me develop my ability to structure information (see structure where others see chaos), keep track of details, and find common ground with a wide variety of people (both business users and technologists/developers).
-I'm not afraid of new challenges: I quickly understand unfamiliar systems, easily absorb information, and immediately apply it in practice. It's important to me not just to complete tasks, but to understand their essence. I enjoy immersing myself in processes and looking for ways to optimize them.
-I'm looking for a team where:
-- complex and varied tasks are available;
-- initiative and a willingness to learn are valued;
-- an atmosphere of mutual respect prevails;
-- I'm willing to complete a test assignment and pass an interview;
-- Contact me on Telegram: https://t.me/@Lenusyaby
-I want to work with people and can learn from and contribute to our shared achievements.
+👋 Меня зовут Елена. 
+Я аналитик данных, который хорошо знает как выглядят и работают банковские продукты (дебетовые и кредитные) на уровне операционной системы, нахожу общий язык с технологами и разработчиками для устранения технических проблем и упрощения работы сотрудников.
+Работа в банке (более 12 лет) помогла развить умение структурировать информацию (видеть структуру там, где другие видят хаос), не упускать детали, находить общий язык с самыми разными людьми (как с бизнес-пользователями, так и с технологами/разработчиками).
+Я не боюсь новых вызовов: быстро разбираюсь в незнакомых системах, легко усваиваю информацию и сразу применяю её на практике. Мне важно не просто выполнять задачи, а понимать суть, люблю погружаться в процессы и искать способы их оптимизировать.
+
+Ищу команду, где:
+- есть сложные и разнообразные задачи;
+- ценят инициативу и готовность учиться;
+- царит атмосфера взаимного уважения;
+- готова выполнить тестовое задание и пройти собеседование;
+- на связи в телеграмме https://t.me/@Lenusyaby
+
+Хочу работать с людьми, у которых есть чему поучиться, и вносить свой вклад в общие достижения.
+
+Применяла свои навыки в проектах:
+- изучала данные на корректность и полноту (форматы, дубли, пропуски);
+- проводила анализ пользовательского поведения на основе сырых данных;
+- строила дашборды и дорабатывала готовые для визуализации ключевых метрик;
+- формулировала гипотезы и проверяла их с помощью статистических методов;
+- готовила аналитические отчёты с выводами и рекомендациями.
+
+Мои навыки:
+- SQL (базовые запросы, JOIN, CTE, агрегатные функции);
+- Python (основы языка, библиотеки pandas, numpy);
+- Google Sheets / Microsoft Excel (сводные таблицы, графики, базовые формулы);
+- DataLens (создание дашбордов, визуализация данных) — базовый уровень;
+- Jupyter Notebook (анализ и презентация данных);
+- описательная статистика;
+- проверка гипотез (t‑тест) — теоретическое понимание;
+- сегментация данных.
+
+
+Контакты:
+Email: aurelia62rus@yandex.ru
+Telegram: https://t.me/@Lenusyaby
+
+
+
+
+
+
+
+
+
